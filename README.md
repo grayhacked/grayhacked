@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Jean Duckens SANNON  
 
-🚀 Programmer | Data Engineer | AI & Big Data Enthusiast  
+🚀 Programmer | Data Engineer | Data scientist | AI & Big Data Enthusiast  
 
 📌 About Me  
 - 🎓 Education:  
@@ -21,5 +21,5 @@
 - Expanding **HaitiBot's impact** in AI and STEM education  
 
  📫 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/jean-duckens-sannon-06a1a4237)   
+- 💼 [LinkedIn](www.linkedin.com/in/jean-duckens-sannon)   
 - 📧 Email: sannonjeanduckens@gmail.com  
