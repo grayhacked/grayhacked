@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Jean Duckens SANNON  
 
-🚀 Programmer | Data Engineer | Data scientist | AI & Big Data Enthusiast  
+🚀 Programmer | Data Analyste | Data scientist | & Big Data Enthusiast  
 
 📌 About Me  
 - 🎓 Education:  
