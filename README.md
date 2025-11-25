@@ -22,4 +22,6 @@
 
  📫 Let's Connect  
 - 💼 [LinkedIn](www.linkedin.com/in/jean-duckens-sannon)   
-- 📧 Email: sannonjeanduckens@gmail.com  
+- 📧 Email: sannonjeanduckens@gmail.com
+- 📧 Email: jeanduckens.sannon@etu.estia.fr
+- 📧 Email: jeanduckens.sanon@esih.edu
