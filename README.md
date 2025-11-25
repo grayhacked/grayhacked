@@ -17,7 +17,7 @@
 
 🔥 What I’m Working On  
 - AI and Big Data projects as part of my **M2 studies**  
-- Open-source contributions in **data engineering & machine learning**  
+- Open-source contributions in **data science/analytics & machine learning**  
 - Expanding **HaitiBot's impact** in AI and STEM education  
 
  📫 Let's Connect  
